@@ -3,13 +3,13 @@
 This leaderboard is **auto-updated** when a submission PR is scored. For interactive search and filters, enable GitHub Pages and open **/docs/leaderboard.html**.
 
 **Metric:** Normalized MAE (NMAE) - Lower is better  
-*Last Updated: 2026-05-17 18:12:37 UTC*
+*Last Updated: 2026-05-17 18:25:22 UTC*
 
 | Rank | Team | Model Type | NMAE | NMAE % | Date (UTC) | Notes |
 |---:|---|---|---:|---:|---|---|
 | 1 | DeepSeek-v4-pro | `participant` | 0.0668963631026128 | 6.69% | 2026-05-17T11:51:43.387871Z | GitHub Submission |
 | 2 | Murad_Hossen |  | 0.0689210754185265 | 6.89% | 2026-03-08T01:35:26.365509Z | GitHub Submission |
-| 3 | llm_claude_47 | `participant` | 0.06906261685233973 | 6.91% | 2026-05-17T18:12:37.459127Z | GitHub Submission |
+| 3 | llm_claude_47 | `participant` | 0.0690626168523397 | 6.91% | 2026-05-17T18:12:37.459127Z | GitHub Submission |
 | 4 | Ignatius |  | 0.0694871773859687 | 6.95% | 2026-03-18T10:34:14.647731Z | GitHub Submission |
 | 5 | peguy_mix | `participant` | 0.0696117675328825 | 6.96% | 2026-04-09T13:25:08.088327Z | GitHub Submission |
 | 6 | Hadil_Explorer |  | 0.0696798263664423 | 6.97% | 2026-03-24T20:45:32.857013Z | GitHub Submission |
@@ -21,4 +21,5 @@ This leaderboard is **auto-updated** when a submission PR is scored. For interac
 | 12 | emmanuel_owusu |  | 0.078484062678697 | 7.85% | 2026-04-04T15:39:21.164138Z | GitHub Submission |
 | 13 | Rosa_PY |  | 0.0832711973526839 | 8.33% | 2026-03-09T07:59:19.877057Z | GitHub Submission |
 | 14 | Tasneem | `participant` | 0.0916405792482542 | 9.16% | 2026-04-11T05:52:05.797292Z | GitHub Submission |
-| 15 | nourmaj |  | 0.1468457160731506 | 14.68% | 2026-04-04T23:11:56.050776Z | GitHub Submission |
+| 15 | llm_gemini_25_pro | `participant` | 0.09351395126953592 | 9.35% | 2026-05-17T18:25:22.696520Z | GitHub Submission |
+| 16 | nourmaj |  | 0.1468457160731506 | 14.68% | 2026-04-04T23:11:56.050776Z | GitHub Submission |
