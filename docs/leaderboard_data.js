@@ -4,10 +4,10 @@ window.LEADERBOARD_DATA = [
     "team": "DeepSeek-v4-pro",
     "github_user": "randomuser1194",
     "type": "",
-    "combined_nmae": "0.06689636310261281",
-    "pressure_nmae": "0.07798386835450088",
-    "temperature_nmae": "0.050819156359649134",
-    "speed_nmae": "0.04934168666666667",
+    "combined_nmae": "0.0668963631026128",
+    "pressure_nmae": "0.0779838683545008",
+    "temperature_nmae": "0.0508191563596491",
+    "speed_nmae": "0.0493416866666666",
     "notes": "GitHub Submission",
     "model_type": "participant"
   },
@@ -22,6 +22,18 @@ window.LEADERBOARD_DATA = [
     "speed_nmae": "0.0413586434351851",
     "notes": "GitHub Submission",
     "model_type": ""
+  },
+  {
+    "timestamp_utc": "2026-05-17T18:12:37.459127Z",
+    "team": "llm_claude_47",
+    "github_user": "Murad-Hossen",
+    "type": "",
+    "combined_nmae": "0.06906261685233973",
+    "pressure_nmae": "0.08459494304302032",
+    "temperature_nmae": "0.048155673066077875",
+    "speed_nmae": "0.0417782184000538",
+    "notes": "GitHub Submission",
+    "model_type": "participant"
   },
   {
     "timestamp_utc": "2026-03-18T10:34:14.647731Z",
