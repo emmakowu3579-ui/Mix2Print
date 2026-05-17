@@ -108,6 +108,18 @@ window.LEADERBOARD_DATA = [
     "model_type": ""
   },
   {
+    "timestamp_utc": "2026-05-17T21:48:44.831338Z",
+    "team": "submission.enc",
+    "github_user": "SanaeZR",
+    "type": "",
+    "combined_nmae": "0.07427473843652724",
+    "pressure_nmae": "0.08997268909870768",
+    "temperature_nmae": "0.054200837573099424",
+    "speed_nmae": "0.044939437226851855",
+    "notes": "GitHub Submission",
+    "model_type": "participant"
+  },
+  {
     "timestamp_utc": "2026-03-05T11:40:40.513952Z",
     "team": "AIkram",
     "github_user": "AiIkram",
@@ -172,10 +184,10 @@ window.LEADERBOARD_DATA = [
     "team": "llm_gemini_25_pro",
     "github_user": "Murad-Hossen",
     "type": "",
-    "combined_nmae": "0.09351395126953592",
-    "pressure_nmae": "0.10922687757909982",
-    "temperature_nmae": "0.08153160990497076",
-    "speed_nmae": "0.05063281497222222",
+    "combined_nmae": "0.0935139512695359",
+    "pressure_nmae": "0.1092268775790998",
+    "temperature_nmae": "0.0815316099049707",
+    "speed_nmae": "0.0506328149722222",
     "notes": "GitHub Submission",
     "model_type": "participant"
   },
